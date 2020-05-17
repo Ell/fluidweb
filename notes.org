@@ -1,0 +1,7 @@
+* Notes
+- Streaming chunks of audio buffer data between wasm context and browser
+- hook that into webaudio
+- need a control interface
+  - could be webmidi
+    - if webmidi we wanna support lower level as well
+- create interface into soundfont param management / configuration
